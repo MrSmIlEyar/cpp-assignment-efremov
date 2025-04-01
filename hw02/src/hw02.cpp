@@ -16,11 +16,3 @@ string hw02(std::string input_str)
     }
     return input_str;
 }
-
-int main() {
-    cout << hw02("Hello") << endl;
-    cout << hw02("AABBCC") << endl;
-    cout << hw02("!HHWW02COMPLLETEE!") << endl;
-    return 0;
-}
-
